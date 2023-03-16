@@ -1,0 +1,6 @@
+pred_no,land_parcel_name,street,latitude,longitude,date_launch,date_close,land_use_type,project_type,site_area_sqm,gfa_sqm,gpr,lease_term,source,proj_num_of_units,proj_max_floor,num_bidders,joint_venture
+1,Marina Gardens Lane,Marina Gardens Drive,1.277711264,103.8605934,5/12/2022,27/6/2023,Residential with commercial,mixed,12245,68573,5.6,99,ura,790,,4.0,0
+2,Lentor Gardens,Lentor Gardens,1.383076481,103.832945,31/10/2022,4/4/2023,Residential,condo,21867,45920,2.1,99,ura,530,,5.0,0
+3,Tampines Avenue 11,Tampines Avenue 11,1.36672817,103.937909,23/12/2022,27/6/2023,Residential with commercial,mixed,50680,126700,,99,hdb,1190,,,0
+4,Plantation Close (EC),Jurong Road,1.349357473,103.7372038,23/12/2022,27/6/2023,Residential,ec,16441,46036,,99,hdb,495,,,0
+5,Jalan Tembusu,Jalan Tembusu,1.30502164488343,103.8979583,14/3/2023,18/7/2023,Residential,condo,20572,72003,3.5,99,ura,840,,,0
